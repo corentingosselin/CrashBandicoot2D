@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: ce82b73fedd8141a0b1601262f092458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -508089242514073661
+    second: Ckeckpoint_0
+  - first:
+      213: 7750242276739817929
+    second: Ckeckpoint_1
+  - first:
+      213: 4138269350452861903
+    second: Ckeckpoint_2
+  - first:
+      213: 5501149508869354290
+    second: Ckeckpoint_11
+  - first:
+      213: 1737219597744646063
+    second: Ckeckpoint_12
+  - first:
+      213: -1793407837821739968
+    second: Ckeckpoint_14
+  - first:
+      213: 2129114690822095143
+    second: Ckeckpoint_15
+  - first:
+      213: 6390852224590380192
+    second: Ckeckpoint_16
+  - first:
+      213: 4944625127976471530
+    second: Ckeckpoint_17
+  - first:
+      213: -5174945792139634129
+    second: Ckeckpoint_18
+  - first:
+      213: -1018927885585664438
+    second: Ckeckpoint_19
+  - first:
+      213: 121106211133477794
+    second: Ckeckpoint_20
+  - first:
+      213: 4490949856788263006
+    second: Ckeckpoint_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ckeckpoint_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ed50fcb81b435baf3d1f990d6bb26
+      internalID: -508089242514073661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 7
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98beccaa192745e1b26e7cd30893410
+      internalID: 7750242276739817929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53b72eea2c140a697f197466338a18
+      internalID: 4138269350452861903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1
+        width: 46
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ada2209fc54616b866ae545be70b7
+      internalID: 5501149508869354290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4
+        width: 48
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b564c4e4b1ba4fdba226751f92be99b
+      internalID: 1737219597744646063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212dfaddb64b4df4b81f9bfb87e2fdf
+      internalID: -1793407837821739968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676000475e304c008a801fefcd384ff
+      internalID: 2129114690822095143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba2249d35e14cc5ad2d759421b9b0f
+      internalID: 6390852224590380192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a29c12aa694d9e9fa97dabc0e99f4
+      internalID: 4944625127976471530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11750f0e7c8604d74a361bc1b8e01fb9
+      internalID: -5174945792139634129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae3edf7460742f6ace7a3d6e8ca9c5
+      internalID: -1018927885585664438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603d9069b8e44eb1bd06b6bdee23e1e
+      internalID: 121106211133477794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ckeckpoint_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 46
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df127d40c3d1242ce861494080d903c5
+      internalID: 4490949856788263006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
